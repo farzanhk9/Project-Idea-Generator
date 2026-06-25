@@ -5,7 +5,7 @@ class ProjectIdeaGenerator:
 
     CATEGORIES = [
         "Web",
-        "AI",
+        "AIi",
         "Automation",
         "CLI",
         "Security",
